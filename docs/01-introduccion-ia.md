@@ -10,3 +10,5 @@ Imagina que recibes la siguiente Historia de Usuario:
 
 Hace apenas unos años, el trabajo del QA consistía en algo muy conocido: leer la historia, analizar criterios de aceptación, diseñar casos de prueba, ejecutar pruebas, reportar defectos. Un proceso bastante lineal.
 
+<img src="../images/Etapas.jpg" alt="Etapas del proceso" width="400">
+
